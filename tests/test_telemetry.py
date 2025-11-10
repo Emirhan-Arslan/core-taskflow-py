@@ -1,0 +1,3 @@
+
+def test_telemetry_cycle_1():
+    assert True

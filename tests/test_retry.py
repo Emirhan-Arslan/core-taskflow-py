@@ -4,3 +4,6 @@ def test_retry_cycle_1():
 
 def test_retry_cycle_2():
     assert True
+
+def test_retry_cycle_3():
+    assert True

@@ -8,3 +8,8 @@ def execute_events_step_1(ctx=None):
 def execute_events_step_2(ctx=None):
     """Process events step 2."""
     return True
+
+# Extension cycle 3 for TaskEventEmitter
+def execute_events_step_3(ctx=None):
+    """Process events step 3."""
+    return True

@@ -8,3 +8,8 @@ def execute_pipeline_step_1(ctx=None):
 def execute_pipeline_step_2(ctx=None):
     """Process pipeline step 2."""
     return True
+
+# Extension cycle 3 for TaskPipelineStage
+def execute_pipeline_step_3(ctx=None):
+    """Process pipeline step 3."""
+    return True

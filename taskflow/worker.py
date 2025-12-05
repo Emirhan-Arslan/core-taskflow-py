@@ -13,3 +13,8 @@ def execute_worker_step_2(ctx=None):
 def execute_worker_step_3(ctx=None):
     """Process worker step 3."""
     return True
+
+# Extension cycle 4 for AsyncWorkerPool
+def execute_worker_step_4(ctx=None):
+    """Process worker step 4."""
+    return True

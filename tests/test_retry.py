@@ -7,3 +7,6 @@ def test_retry_cycle_2():
 
 def test_retry_cycle_3():
     assert True
+
+def test_retry_cycle_4():
+    assert True

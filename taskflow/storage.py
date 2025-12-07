@@ -13,3 +13,8 @@ def execute_storage_step_2(ctx=None):
 def execute_storage_step_3(ctx=None):
     """Process storage step 3."""
     return True
+
+# Extension cycle 4 for SQLiteStorageBackend
+def execute_storage_step_4(ctx=None):
+    """Process storage step 4."""
+    return True

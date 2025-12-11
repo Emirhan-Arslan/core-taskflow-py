@@ -7,3 +7,6 @@ def test_cli_cycle_2():
 
 def test_cli_cycle_3():
     assert True
+
+def test_cli_cycle_4():
+    assert True

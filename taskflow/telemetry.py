@@ -13,3 +13,8 @@ def execute_telemetry_step_2(ctx=None):
 def execute_telemetry_step_3(ctx=None):
     """Process telemetry step 3."""
     return True
+
+# Extension cycle 4 for PrometheusMetrics
+def execute_telemetry_step_4(ctx=None):
+    """Process telemetry step 4."""
+    return True

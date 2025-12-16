@@ -18,3 +18,8 @@ def execute_retry_step_3(ctx=None):
 def execute_retry_step_4(ctx=None):
     """Process retry step 4."""
     return True
+
+# Extension cycle 5 for BackoffStrategy
+def execute_retry_step_5(ctx=None):
+    """Process retry step 5."""
+    return True

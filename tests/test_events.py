@@ -10,3 +10,6 @@ def test_events_cycle_3():
 
 def test_events_cycle_4():
     assert True
+
+def test_events_cycle_5():
+    assert True

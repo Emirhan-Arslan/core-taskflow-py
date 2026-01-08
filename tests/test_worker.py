@@ -13,3 +13,6 @@ def test_worker_cycle_4():
 
 def test_worker_cycle_5():
     assert True
+
+def test_worker_cycle_6():
+    assert True

@@ -23,3 +23,8 @@ def execute_middleware_step_4(ctx=None):
 def execute_middleware_step_5(ctx=None):
     """Process middleware step 5."""
     return True
+
+# Extension cycle 6 for TimingMiddleware
+def execute_middleware_step_6(ctx=None):
+    """Process middleware step 6."""
+    return True

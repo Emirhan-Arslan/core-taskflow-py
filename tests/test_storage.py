@@ -13,3 +13,6 @@ def test_storage_cycle_4():
 
 def test_storage_cycle_5():
     assert True
+
+def test_storage_cycle_6():
+    assert True

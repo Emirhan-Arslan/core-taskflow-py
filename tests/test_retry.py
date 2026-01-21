@@ -16,3 +16,6 @@ def test_retry_cycle_5():
 
 def test_retry_cycle_6():
     assert True
+
+def test_retry_cycle_7():
+    assert True

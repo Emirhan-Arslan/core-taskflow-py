@@ -28,3 +28,8 @@ def execute_cli_step_5(ctx=None):
 def execute_cli_step_6(ctx=None):
     """Process cli step 6."""
     return True
+
+# Extension cycle 7 for CommandLineRunner
+def execute_cli_step_7(ctx=None):
+    """Process cli step 7."""
+    return True

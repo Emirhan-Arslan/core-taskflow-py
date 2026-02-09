@@ -16,3 +16,6 @@ def test_telemetry_cycle_5():
 
 def test_telemetry_cycle_6():
     assert True
+
+def test_telemetry_cycle_7():
+    assert True

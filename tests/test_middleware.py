@@ -19,3 +19,6 @@ def test_middleware_cycle_6():
 
 def test_middleware_cycle_7():
     assert True
+
+def test_middleware_cycle_8():
+    assert True

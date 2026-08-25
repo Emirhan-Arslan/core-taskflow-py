@@ -25,3 +25,6 @@ def test_cli_cycle_8():
 
 def test_cli_cycle_9():
     assert True
+
+def test_cli_cycle_10():
+    assert True

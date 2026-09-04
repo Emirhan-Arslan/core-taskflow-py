@@ -28,3 +28,6 @@ def test_retry_cycle_9():
 
 def test_retry_cycle_10():
     assert True
+
+def test_retry_cycle_11():
+    assert True

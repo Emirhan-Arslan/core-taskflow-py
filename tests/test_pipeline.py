@@ -28,3 +28,6 @@ def test_pipeline_cycle_9():
 
 def test_pipeline_cycle_10():
     assert True
+
+def test_pipeline_cycle_11():
+    assert True
